@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 Streamlining user workflow with AI, one commit at a time. 
 
