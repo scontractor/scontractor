@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Streamlining user workflow with AI, one commit at a time. 
+
 <!--
 **scontractor/scontractor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
