@@ -65,7 +65,9 @@ A zero-knowledge Chrome extension providing an agentic privacy layer to mask dig
 ---
 
 ## 🎓 Education & Background
-**MIT** (Massachusetts Institute of Technology) • **TUM** (Technical University of Munich) • **CDTM** ## 🧰 Technical Mastery
+**MIT** (Massachusetts Institute of Technology) • **TUM** (Technical University of Munich) • **CDTM**
+
+🧰 Technical Mastery
 * **AI Architecture:** Claude Code, MCP (Model Context Protocol), LangGraph, Agentic Design.
 * **Product Strategy:** AI Roadmap Development, VC-grade Due Diligence, Market Analysis.
 * **Full Stack:** TypeScript, Next.js, Python (FastAPI), Supabase, PostGIS.
