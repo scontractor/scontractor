@@ -1,7 +1,7 @@
 # Hi there, I'm Shiv! 👋 
 
 ### **AI Product Manager & Builder**
-**Engineer • Former Venture Capitalist • Alumnus of MIT, TUM, & CDTM**
+**Engineer • Former DeepTech VC 
 
 I specialize in **Agentic Workflows**, **LLM Orchestration**, and **Spatial Intelligence**. After a career in engineering and venture capital, I'm currently building high-leverage products that bridge the gap between strategic capital and rapid technical execution.
 
@@ -50,7 +50,7 @@ I am currently shipping a portfolio of products focused on solving high-value pr
 
 ## 📊 Let's Connect
 - 📨 **LinkedIn:** [Shiv Contractor](https://www.linkedin.com/in/shiv-contractor-155a72b3/)
-- 📍 **Based in:** London, UK
+- 📍 **Based in:** London, UK & Berlin, Germany
 - ⚡ **Philosophy:** "Move fast, commit atomic, and ship often."
 
 ---
