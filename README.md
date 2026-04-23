@@ -1,5 +1,3 @@
-## 🛠️ Active AI Projects
-
 # Hi there, I'm Shiv! 👋 
 
 ### **AI Product Manager & Builder**
