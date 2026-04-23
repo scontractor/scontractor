@@ -1,12 +1,3 @@
-# Hi there, I'm Shiv! 👋 
-
-### **AI Product Manager & Builder**
-**Engineer • Former DeepTech Venture Capitalist**
-
-I specialise in **Agentic Workflows**, **LLM Orchestration**, and **Geospatial Intelligence**. Bridging the gap between strategic capital and rapid technical execution.
-
----
-
 ## 🛠️ Active AI Projects
 
 # Hi there, I'm Shiv! 👋 
