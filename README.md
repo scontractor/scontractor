@@ -12,6 +12,7 @@ I am currently shipping a portfolio of products focused on solving high-value pr
 
 ### 📈 EchoTrade AI | [Fintech / LLM]
 **Problem:** Retail investors lack institutional-grade tools to replicate high-performance celebrity portfolios.
+
 **Solution:** An AI **Strategy Cloner** that transforms 13F filings and social sentiment into actionable trading signals.
 * **Keywords:** Financial AI, Sentiment Analysis, Stock Strategy Replication.
 
