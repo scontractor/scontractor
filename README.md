@@ -5,6 +5,8 @@
 
 I specialise in **Agentic Workflows**, **LLM Orchestration**, and **Geospatial Intelligence**. Bridging the gap between strategic capital and rapid technical execution.
 
+###
+
 ## 🛠️ Active AI Projects
 
 ### 📈 EchoTrade AI | [Fintech / LLM]
