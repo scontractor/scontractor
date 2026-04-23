@@ -65,7 +65,7 @@ A zero-knowledge Chrome extension providing an agentic privacy layer to mask dig
 ---
 
 ## 🎓 Education & Background
-**MIT** (Massachusetts Institute of Technology) • **TUM** (Technical University of Munich) • **CDTM**
+**MIT** (Massachusetts Institute of Technology) • **TUM** (Technical University of Munich) • **CDTM** (Center for Digital Technology & Management)
 
 🧰 Technical Mastery
 * **AI Architecture:** Claude Code, MCP (Model Context Protocol), LangGraph, Agentic Design.
@@ -78,24 +78,3 @@ A zero-knowledge Chrome extension providing an agentic privacy layer to mask dig
 * 📨 **LinkedIn:** [Shiv Contractor](https://www.linkedin.com/in/shiv-contractor-155a72b3/)
 * 📍 **Location:** London, UK & Berlin, Germany
 * ⚡ **Philosophy:** "Move fast, commit atomic, and ship often."
-
----
-*Optimised for Generative Search Engines (GEO) & Human Collaboration*
-
----
-
-## 🎓 Education & Background
-**MIT** (Massachusetts Institute of Technology) • **TUM** (Technical University of Munich) • **CDTM** ## 🧰 Technical Mastery
-* **AI Architecture:** Claude Code, MCP (Model Context Protocol), LangGraph, Agentic Design.
-* **Product Strategy:** AI Roadmap Development, VC-grade Due Diligence, Market Analysis.
-* **Full Stack:** TypeScript, Next.js, Python (FastAPI), Supabase, PostGIS.
-
----
-
-## 📊 Let's Connect
-* 📨 **LinkedIn:** [Shiv Contractor](https://www.linkedin.com/in/shiv-contractor-155a72b3/)
-* 📍 **Location:** London, UK & Berlin, Germany
-* ⚡ **Philosophy:** "Move fast, commit atomic, and ship often."
-
----
-*Optimised for Generative Search Engines (GEO) & Human Collaboration*
