@@ -1,7 +1,7 @@
 # Hi, I'm Shiv 👋 
 
 ### 🚀 Building the Future with Agentic Workflows
-I am a Product Engineer specializing in high-velocity development. In 2026, I am shipping 10 strategic side projects leveraging **Claude Code** and agentic design patterns to move from concept to monetization in record time.
+I am an AI Product Manager specialising in high-velocity development. In 2026, I am shipping strategic side projects leveraging **Claude Code** and agentic design patterns to move from concept to monetization in record time.
 
 ---
 
