@@ -35,5 +35,5 @@ I’m building in public. Here’s what’s coming next:
 
 ## 📊 Stats & Socials
 - 📨 **Contact:** [LinkedIn](https://www.linkedin.com/in/shiv-contractor-155a72b3/)
-- 📍 **Based in:** London, UK
+- 📍 **Based in:** London, UK & Berlin, DE
 - ⚡ **Philosophy:** "Move fast, commit atomic, and ship often."
