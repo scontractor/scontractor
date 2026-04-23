@@ -15,9 +15,9 @@ I am a Product Engineer specializing in high-velocity development. In 2026, I am
 
 ## 🏗️ The 2026 Roadmap
 I’m building in public. Here’s what’s coming next:
-1. **Stock Strategy Cloner** - Financial logic replication via LLMs.
+1. **Celeb Stock Strategy Cloner** - Financial logic replication via LLMs.
 2. **OSS GEO Optimizer** - Revolutionizing spatial data efficiency.
-3. **Niche Chrome Extension** - [Briefly describe the utility].
+3. **Chrome Extension** - For maximising your privacy.
 4. *...7 more high-leverage tools in the queue.*
 
 ---
